@@ -7,7 +7,7 @@ const App = () => {
         (err) => console.log(err) // failure callback
     )
 
-    return <h1>Hi there!</h1>
+    return <h1>Latitude: </h1>
 }
 
 ReactDOM.render(
